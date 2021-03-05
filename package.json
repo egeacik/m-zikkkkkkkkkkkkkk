@@ -1,0 +1,42 @@
+{
+  "name": "tyronmusic",
+  "version": "0.0.1",
+  "description": "TyroN - Discord Music V12 Version Bot",
+  "main": "template.js",
+  "repository": {
+    "type": "git",
+    "url": "TyroN-URL"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "ffmpeg-static": "^4.2.7",
+    "moment": "^2.29.1",
+    "node-opus": "^0.3.3",
+    "opusscript": "0.0.7",
+    "yt-search": "^2.7.1",
+    "ytdl-core": "^4.4.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "TyroN",
+  "license": "",
+  "keywords": [
+    "music",
+    "bot",
+    "discord",
+    "glitch",
+    "simple",
+    "template",
+    "v12"
+  ]
+}
